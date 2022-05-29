@@ -1,0 +1,43 @@
+
+const data = [
+    
+    { id:1,name:"Abduvali", desc:"Lorem sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:2,name:"Jahon", desc:"Lorem ipsum dolor amet contetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:3,name:"Kino", desc:"Lorem ipsum dolor amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:4,name:"Dab", desc:"Lorem ipsum dolor sita consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:5,name:"Arra", desc:"Lorem ipsum dolor sit ametoectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:6,name:"Lolo", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:7,name:"kio", desc:"Lorem ipsum dolor sit amet cosectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:8,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:9,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:10,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:11,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:12,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:13,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:14,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:15,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:16,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:17,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:18,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque,  dolore et pariatur blanditiis perferendis."},
+    { id:19,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:20,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. , recusandae dolore et pariatur blanditiis perferendis."},
+    { id:21,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing  Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:22,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur,  elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:23,name:"Abduvali", desc:"Lorem ipsum dolor sit amet , adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:24,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:25,name:"Abduvali", desc:"Lorem ipsum dolor sit  consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:26,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:27,name:"Abduvali", desc:"Lorem ipsum sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:28,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:29,name:"Abduvali", desc:"Lorem dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:30,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:31,name:"Abduvali", desc:"ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:32,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:33,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:34,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:35,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    { id:36,name:"Abduvali", desc:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, recusandae dolore et pariatur blanditiis perferendis."},
+    
+]
+
+export default data
